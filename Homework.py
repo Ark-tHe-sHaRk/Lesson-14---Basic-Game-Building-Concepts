@@ -42,6 +42,3 @@ while not done:
 
     # Updating the display
     pygame.display.flip()
-
-# Quitting Pygame
-pygame.quit()
